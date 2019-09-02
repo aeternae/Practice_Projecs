@@ -39,5 +39,10 @@ Fashion_Mnist则涵盖了来自10种类别的共7万个不同商品的正面图�
 项目运用机器学习基础算法与卷积神经网络分别对minst与fashion mnist构建多分类分类模型，并比较各算法模型在时间空间及auc上的优劣。
 
 ### Iris_Analyse
-Iris Data Set（鸢尾属植物数据集）是历史最悠久的数据集之一，它首次出现在著名的英国统计学家和生物学家Ronald Fisher 1936年的论文《The use of multiple measurements in taxonomic problems》中，被用来介绍线性判别式分析。在这个数据集中，包括了三类不同的鸢尾属植物：Iris Setosa，Iris Versicolour，Iris Virginica。每类收集了50个样本，每个样本4个特征参数（萼片长度和宽度、花瓣长度和宽度）。因此这个数据集一共包含了150个样本。
+Iris Data Set（鸢尾属植物数据集）是历史最悠久的数据集之一，它首次出现在著名的英国统计学家和生物学家Ronald Fisher 1936年的论文《The use of multiple measurements in taxonomic problems》中，被用来介绍线性判别式分析。<br>
+在这个数据集中，包括了三类不同的鸢尾属植物：Iris Setosa，Iris Versicolour，Iris Virginica。每类收集了50个样本，每个样本4个特征参数（萼片长度和宽度、花瓣长度和宽度）。因此这个数据集一共包含了150个样本。
+
+### Rent_predict
+数据集为在租房类网站爬取的租房数据，数据信息特征包括房屋地址、楼层、面积、室内等，以及label-房租。<br>
+项目通过构建回归模型，通过已有数据预测新增房屋的租金范围。
 
